@@ -13,5 +13,6 @@
 @property (nonatomic, strong) NSString *name;
 
 - (instancetype)initWithName:(NSString *) name;
+- (void) printName;
 
 @end

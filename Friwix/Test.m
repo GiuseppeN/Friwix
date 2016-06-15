@@ -19,5 +19,11 @@
     return self;
 }
 
+- (void) printName {
+    
+    NSLog(@"%@", self.name);
+    
+}
+
 
 @end
