@@ -8,11 +8,15 @@
 
 #import <Foundation/Foundation.h>
 
+@import GaugeView;
+//@import EPSignature;
+
 @interface Test : NSObject
 
 @property (nonatomic, strong) NSString *name;
 
 - (instancetype)initWithName:(NSString *) name;
 - (void) printName;
+- (GaugeView *) openGaugeView;
 
 @end
