@@ -18,4 +18,4 @@ pod 'EPSignature'
 #pod 'Bugsnag'
 end
 
-#use_frameworks!
+use_frameworks!
