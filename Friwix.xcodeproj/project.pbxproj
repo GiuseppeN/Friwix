@@ -7,14 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4E2DAA2C1D113F23003F939D /* Test2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E2DAA2B1D113F23003F939D /* Test2.swift */; };
 		4E42AE751D10480B0094B3D5 /* Friwix.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E42AE741D10480B0094B3D5 /* Friwix.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4E42AE7E1D1048AE0094B3D5 /* Test.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E42AE7C1D1048AE0094B3D5 /* Test.h */; };
 		4E42AE7F1D1048AE0094B3D5 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E42AE7D1D1048AE0094B3D5 /* Test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4E2DAA2B1D113F23003F939D /* Test2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test2.swift; sourceTree = "<group>"; };
 		4E42AE711D10480B0094B3D5 /* Friwix.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Friwix.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E42AE741D10480B0094B3D5 /* Friwix.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Friwix.h; sourceTree = "<group>"; };
 		4E42AE761D10480B0094B3D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -56,7 +54,6 @@
 				4E42AE761D10480B0094B3D5 /* Info.plist */,
 				4E42AE7C1D1048AE0094B3D5 /* Test.h */,
 				4E42AE7D1D1048AE0094B3D5 /* Test.m */,
-				4E2DAA2B1D113F23003F939D /* Test2.swift */,
 			);
 			path = Friwix;
 			sourceTree = "<group>";
@@ -140,7 +137,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4E2DAA2C1D113F23003F939D /* Test2.swift in Sources */,
 				4E42AE7F1D1048AE0094B3D5 /* Test.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
