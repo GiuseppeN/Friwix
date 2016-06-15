@@ -8,6 +8,10 @@ target 'Friwix' do
 
 
 pod 'AFNetworking'
+
+
+pod 'EPSignature'
+
 #pod 'FBSDKCoreKit'
 #pod 'FBSDKShareKit'
 #pod 'FBSDKLoginKit'
