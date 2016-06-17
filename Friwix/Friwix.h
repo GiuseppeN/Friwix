@@ -2,7 +2,7 @@
 //  Friwix.h
 //  Friwix
 //
-//  Created by TheMadBox on 14/06/16.
+//  Created by TheMadBox on 16/06/16.
 //  Copyright © 2016 TheMadBox. All rights reserved.
 //
 
@@ -15,5 +15,6 @@ FOUNDATION_EXPORT double FriwixVersionNumber;
 FOUNDATION_EXPORT const unsigned char FriwixVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Friwix/PublicHeader.h>
-#import <Friwix/test.h>
 
+
+#import "Test.h"

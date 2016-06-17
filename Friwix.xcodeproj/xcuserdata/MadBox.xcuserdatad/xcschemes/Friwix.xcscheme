@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4E42AE701D10480B0094B3D5"
+               BlueprintIdentifier = "4E3481401D12D9FA005330CE"
                BuildableName = "Friwix.framework"
                BlueprintName = "Friwix"
                ReferencedContainer = "container:Friwix.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4E42AE701D10480B0094B3D5"
+            BlueprintIdentifier = "4E3481401D12D9FA005330CE"
             BuildableName = "Friwix.framework"
             BlueprintName = "Friwix"
             ReferencedContainer = "container:Friwix.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4E42AE701D10480B0094B3D5"
+            BlueprintIdentifier = "4E3481401D12D9FA005330CE"
             BuildableName = "Friwix.framework"
             BlueprintName = "Friwix"
             ReferencedContainer = "container:Friwix.xcodeproj">

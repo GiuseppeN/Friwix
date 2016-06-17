@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Aggregate.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>EXT.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Friwix.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -12,7 +22,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4E42AE701D10480B0094B3D5</key>
+		<key>4E3481401D12D9FA005330CE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4E34819A1D12DB30005330CE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4E3481CC1D12DB75005330CE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4E34822B1D12DC72005330CE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
